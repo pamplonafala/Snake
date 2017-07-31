@@ -2,7 +2,7 @@
 Classic Snake game
 
 ### How to play
-Click the screen and use arrow keys to move
+Click the screen and use arrow keys to move. 
 Eat untill full to go to the next level!
 
 ## Code
